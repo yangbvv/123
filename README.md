@@ -1,4 +1,3 @@
-<div class="body">
 		<div class="content">
 			<div class="jianjie">
 				<div class="jj-list">
@@ -112,6 +111,3 @@
 					</ul>
 				</div>
 			</div>
-		
-
-		
