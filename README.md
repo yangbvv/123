@@ -1,6 +1,4 @@
-				<div class="jj-list">
-					<div class="jj-list-tit">学习 · 生活</div>
-					<ul class="jj-list-con">
+				
 						<li><a href="https://www.taobao.com/" class="link-3" target="_blank" rel="nofollow">淘宝</a></li>
 						<li><a href="https://www.jd.com/" class="link-3" target="_blank" rel="nofollow">京东</a></li>
 						<li><a href="http://www.wannianli.cn/" class="link-3" target="_blank"
@@ -15,8 +13,8 @@
 						<li><a href="https://study.163.com/" class="link-3" target="_blank" rel="nofollow">云课堂</a></li>
 						<li><a href="https://www.icourse163.org/" class="link-3" target="_blank" rel="nofollow">MOOC</a>
 						</li>
-					</ul>
-				</div>
+					
+
 				<div class="jj-list">
 					<div class="jj-list-tit">常用 · 社区</div>
 					<ul class="jj-list-con">
