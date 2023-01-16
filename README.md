@@ -1,5 +1,3 @@
-		<div class="content">
-			<div class="jianjie">
 				<div class="jj-list">
 					<div class="jj-list-tit">学习 · 生活</div>
 					<ul class="jj-list-con">
@@ -109,5 +107,3 @@
 						</li>
 						<li><a href="http://www.zimuku.la/" class="link-3" target="_blank" rel="nofollow">字幕库</a></li>
 					</ul>
-				</div>
-			</div>
