@@ -1,48 +1,4 @@
-<html>
-
-<head>
-	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-	<title>简约导航</title>
-	<meta name="viewport"
-		content="width=device-width, initial-scale=1.0, user-scalable=no, minimum-scale=1.0, maximum-scale=1.0" />
-	<meta content="telephone=no,email=no" name="format-detection">
-	<meta content="yes" name="apple-mobile-web-app-capable">
-	<meta name="apple-mobile-web-app-status-bar-style" content="black" />
-	<meta name="apple-touch-fullscreen" content="yes" />
-	<meta name="keywords" content="网址导航" />
-	<meta name="description" content="一个简单美观可自定义的网址导航" />
-	<link rel="shortcut icon" href="favicon.ico">
-	<link rel="stylesheet" type="text/css" href="css/style.css" />
-	<link rel="stylesheet" type="text/css" href="css/yidong.css" />
-
-</head>
-
-<body>
-
-	<!-- 搜索栏start -->
-	<div class="baidu baidu-2">
-		<form name="f" action="https://www.baidu.com/s" target="_blank">
-			<div class="Select-box-2" id="baidu">
-				<ul>
-					<li class="this_s">百 度</li>
-					<li class="miji_s">多 吉</li>
-					<li class="bing_s">必 应</li>
-					<li class="google_s">谷 歌</li>
-					<li class="baidu_s">百 度</li>
-				</ul>
-			</div>
-			<div class="in5">
-				<input name="wd" id="kw-2" maxlength="100" autocomplete="off" type="text">
-				<div class="qingkong" id="qingkong" title="清空">x</div>
-			</div>
-			<input value="搜 索" id="su-2" type="submit">
-		</form>
-		<ul class="keylist"></ul>
-	</div>
-	<!-- 搜索栏end -->
-
-	<!-- 内容start -->
-	<div class="body">
+<div class="body">
 		<div class="content">
 			<div class="jianjie">
 				<div class="jj-list">
@@ -156,6 +112,6 @@
 					</ul>
 				</div>
 			</div>
-			<!-- 内容end -->
+		
 
 		
